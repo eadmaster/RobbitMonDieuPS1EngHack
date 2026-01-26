@@ -1,0 +1,45 @@
+0x0009c5dc,View Requests
+0x0009c5ec,Enter Candy Shop
+0x0009c5fc,Enter Exchange
+0x0009c60c,Training    
+0x0009c61c,Select by Person
+0x0009c62c,Change Equip.
+0x0009c63c,Dot Card    
+0x0009c64c,System  
+0x0009c658,Save      
+0x0009c664,Load      
+0x0009c670,To Title  
+0x0009c934,Special Weapons
+0x0009c940,Jump
+0x0009c94c,AI Robot
+0x0009c958,Apply
+0x000a71bc,[File %%d]
+0x000a71d0,Play Time    h   m
+0x000a71e8,Completed Requests
+0x000a71fc,Card Types Collected
+0x000a7210,Unused
+0x000a7218,Save Failed
+0x000a6d70,<cl>Checking memory card...<m=0>
+0x000a6da4,<cl>Memory card is not connected
+0x000a6dcc,<cl>Memory card is not initialized
+0x000a6df8,<cl>No Robit Monja data found
+0x000a6e28,<cl>Memory card check failed
+0x000a6e54,<cl>Please select a load request
+0x000a6e78,<cl>Load data?<m=0>
+0x000a6e94,<cl>Operation complete
+0x000a6ea8,<cl>Not enough free blocks
+0x000a6ec8,<cl>Please select a save request
+0x000a6eec,<cl>Save data?<m=0>
+0x000a6f10,<cl>Overwrite data?<m=0>
+0x000a6f34,Initialize?<m=0>
+0x000a6f4c,<cl>Initializing...<m=0>
+0x000a6f6c,<cl>Initialization failed
+0x000a6f88,<cl>Saving...<m=0>
+0x000a6fa4,<cl>Save failed
+0x000a6fc0,<m=0><i=0>Yes      No<i=>
+0x000a4ccc,SCH Training Dep.  
+0x000a4ce0,Congratulations on passing the recruitment\nexam! You are now a Space City Hall\nemployee!\nYou'll begin your training immediately\nin Planet Hanauma.\n \nPilot the all-purpose robot \"Robbit\"\nand respond to the requests of the planet's\nresidents, one by one.\nWe wish you the best of luck!\n
+0x000a4e04,I'll be your supervisor.\nYou can call me Chief. Hahaha.\nI look forward to working with you.\n
+0x0009cd7c,Sumida Akihiko, 5yo"},
+0x0009cd90,I was playing outside and I lost track of\nmy house, so I asked the local nurse\nto help me.\n
+0x0009ce30,This is a big problem. Hahaha.\nPlease deal with it quickly.
