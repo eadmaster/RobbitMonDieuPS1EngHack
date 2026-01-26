@@ -12,7 +12,7 @@ My attempt at an English hack for the PS1 game Robbit Mon Dieu.
 
 ## Preview  👀
 
-<img width="50%" height="50%" alt="demo1" src="https://raw.githubusercontent.com/eadmaster/RobbitMonDieuPS1EngHack/refs/heads/master/shots/demo1.png">  <img width="50%" height="50%" alt="demo1" src="https://raw.githubusercontent.com/eadmaster/RobbitMonDieuPS1EngHack/refs/heads/master/shots/demo2.png">  <img width="50%" height="50%" alt="demo1" src="https://raw.githubusercontent.com/eadmaster/RobbitMonDieuPS1EngHack/refs/heads/master/shots/demo3.png">
+<img width="40%" height="40%" alt="demo1" src="https://raw.githubusercontent.com/eadmaster/RobbitMonDieuPS1EngHack/refs/heads/main/shots/demo1.png">  <img width="40%" height="40%" alt="demo2" src="https://raw.githubusercontent.com/eadmaster/RobbitMonDieuPS1EngHack/refs/heads/main/shots/demo2.png">  <img width="40%" height="40%" alt="demo3" src="https://raw.githubusercontent.com/eadmaster/RobbitMonDieuPS1EngHack/refs/heads/main/shots/demo3.png">
 
 
 ## Patch instructions  🩹
