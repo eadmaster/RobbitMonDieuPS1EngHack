@@ -1,0 +1,153 @@
+; 0x00014994 強制終了しました。
+0x00014994 Forced end.
+
+; 0x000149a7 本体が改造されている
+0x000149a7 Thedevice has been 
+
+; 0x000149bc おそれがあります。
+0x000149bc altered.
+
+; 0x000522cc 　あきひこ君を赤い屋根の家まで
+0x000522cc Take Akihiko to the house with
+
+; 0x000522bc 連れていく。
+0x000522bc the red roof.
+
+; 0x000522ec 　あきひこ君が上に乗っている。
+0x000522ec Akihiko is riding on top.
+
+; 0x000525a0 やめる
+0x000525a0 Quit
+
+; 0x000525a8 やり直す
+0x000525a8 Retry
+
+; 0x000525c4 振動
+0x000525c4 Vibration
+
+; 0x000525cc 内容確認
+0x000525cc Request
+
+; 0x000525d8 やめる
+0x000525d8 Quit
+
+; 0x000525e0 やり直す
+0x000525e0 Retry
+
+; 0x000525ec 続ける
+0x000525ec Cont.
+
+; 0x00052680 −備考−
+0x00052680 Notes
+
+; 0x0005268c −業務内容−
+0x0005268c Job description
+
+; 0x00052a74 開ける
+0x00052a74 Open
+
+; 0x00052d88 大きいニンジン
+0x00052d88 Large Carrot
+
+; 0x00052d98 小さいニンジン
+0x00052d98 Small Carrot
+
+; 0x00052da8 ロケット花火
+0x00052da8 Bottle Rocket
+
+; 0x00052db8 てっぽう
+0x00052db8 Beam Gun
+
+; 0x00052dc4 三尺玉
+0x00052dc4 12-inch Shell
+
+; 0x00052dcc なし
+0x00052dcc No
+
+; 0x00052dd4 私は、野に咲く可憐な自販機。
+0x00052dd4 I am a lovely vending machine, blooming in the wild.
+
+; 0x00052e0c いらない
+0x00052e0c I don't need it.
+
+; 0x00052e18 買う
+0x00052e18 Buy
+
+; 0x00052e2c そんな私を、許してね。
+0x00052e2c Please, forgive me.
+
+; 0x00052e44 売るものがなくて困ってる
+0x00052e44 I have nothing to sell.
+
+; 0x00052e60 広い範囲を攻撃できますよ。
+0x00052e60 We can attack a wide area.
+
+; 0x00052e7c )、買いませんか？
+0x00052e7c ) Want to buy some?
+
+; 0x00052e90 三尺玉(
+0x00052e90 12-inch Shell
+
+; 0x00052e98 一点集中、強力ですよ。
+0x00052e98 Focus on one point, it's powerful.
+
+; 0x00052eb0 てっぽう
+0x00052eb0 Beam Gun
+
+; 0x00052ebc 敵めがけて飛んでいきますよ。
+0x00052ebc It's flying at the enemy.
+
+; 0x00052edc ロケット花火(
+0x00052edc Rocket firework (
+
+; 0x00052eec ちょっとだけ元気になりますよ。
+0x00052eec I'll cheer up a little.
+
+; 0x00052f0c 小さいニンジン(
+0x00052f0c Small carrots.
+
+; 0x00052f1c 元気いっぱいになりますよ。
+0x00052f1c I'll be full of energy.
+
+; 0x00052f38 大きいニンジン(
+0x00052f38 Big carrot (
+
+; 0x00052f48 KIWIで下取って‥‥。
+0x00052f48 Take it down with kiwi...
+
+; 0x00052f64 あなたの持ってる
+0x00052f64 It's yours.
+
+; 0x00052f78 KIWIでいかがです？
+0x00052f78 How about Kiwi?
+
+; 0x00052f90 ご用のときは、また来てね。
+0x00052f90 Come back if you need anything.
+
+; 0x00052fac お買い上げ、ありがとう！
+0x00052fac Thanks for buying it!
+
+; 0x00052fc8 必要になったら、また来てね。
+0x00052fc8 Come back if you need it.
+
+; 0x00052fe8 そんなあなたに、さようなら。
+0x00052fe8 Goodbye to you.
+
+; 0x00053008 話しかけても買わずに帰る
+0x00053008 Even if I talk to her, I won't buy it and go home.
+
+; 0x00053024 使っちゃったら、また来てね。
+0x00053024 Come back when you're done.
+
+; 0x00053044 もう同じものを持っている‥‥
+0x00053044 I already have the same...
+
+; 0x00053064 体力減ったら、また来てね。
+0x00053064 Come back when your stamina's low.
+
+; 0x00053080 けれどもすでに元気いっぱい‥‥
+0x00053080 But she's already full of energy.
+
+; 0x000530a0 お金を貯めて、また来てね。
+0x000530a0 Save some money and come back.
+

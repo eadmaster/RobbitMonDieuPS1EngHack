@@ -9,47 +9,6 @@ printf_syscall:
     li    $t1, 0x3F
 
 
-/* --- File I/O --- */
-
-.align 2
-.global open_syscall
-.type open_syscall, @function
-open_syscall:
-    li  $t2, 0xA0
-    jr  $t2
-    li  $t1, 0x00      /* open */
-
-.align 2
-.global lseek_syscall
-.type lseek_syscall, @function
-lseek_syscall:
-    li  $t2, 0xA0
-    jr  $t2
-    li  $t1, 0x01      /* lseek */
-
-.align 2
-.global read_syscall
-.type read_syscall, @function
-read_syscall:
-    li  $t2, 0xA0
-    jr  $t2
-    li  $t1, 0x02      /* read */
-
-.align 2
-.global write_syscall
-.type write_syscall, @function
-write_syscall:
-    li  $t2, 0xA0
-    jr  $t2
-    li  $t1, 0x03      /* write */
-
-.align 2
-.global close_syscall
-.type close_syscall, @function
-close_syscall:
-    li  $t2, 0xA0
-    jr  $t2
-    li  $t1, 0x04      /* close */
 
 
 /* --- Character I/O --- */
@@ -179,5 +138,4 @@ strlen_syscall:
     li  $t2, 0xA0
     jr  $t2
     li  $t1, 0x1B      /* strlen */
-
 

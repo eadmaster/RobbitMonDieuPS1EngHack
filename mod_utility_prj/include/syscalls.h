@@ -5,13 +5,6 @@
 // Uses syscall 0x3F (std_out_printf) via 0xA0 vector
 int printf_syscall(const char* format, ...);
 
-/* ---- File I/O ---- */
-int  open_syscall(const char *filename, int accessmode);
-int  lseek_syscall(int fd, int offset, int seektype);
-int  read_syscall(int fd, void *dst, int length);
-int  write_syscall(int fd, const void *src, int length);
-int  close_syscall(int fd);
-
 /* ---- Character I/O ---- */
 int  getc_syscall(int fd);
 int  putc_syscall(int ch, int fd);

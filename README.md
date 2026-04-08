@@ -1,6 +1,6 @@
 # Robbit Mon Dieu English Translation
 
-My attempt at an English hack for the PS1 game Robbit Mon Dieu.
+English hack for the PS1 game Robbit Mon Dieu.
 
 
 ## Current status  🏗️
