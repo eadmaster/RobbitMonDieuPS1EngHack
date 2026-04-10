@@ -1,0 +1,845 @@
+<iso_project image_name="mkpsxiso.bin" cue_sheet="mkpsxiso.cue">
+    <track type="data" xa_edc="true" new_type="false">
+        <identifiers system="PLAYSTATION" application="PLAYSTATION" creation_date="1999081904000000+0"/>
+        <license file="Robbit mon Dieu (Japan)/license_data.dat"/>
+        <default_attributes gmt_offs="36" xa_attrib="32" xa_perm="1365" xa_gid="0" xa_uid="0"/>
+        <directory_tree gmt_offs="0">
+            <dir name="STAFF" source="Robbit mon Dieu (Japan)/STAFF">
+                <file name="STAFF.FAC" source="Robbit mon Dieu (Japan)/STAFF/STAFF.FAC" type="data"/>
+                <file name="STAFF.PEX" source="Robbit mon Dieu (Japan)/STAFF/STAFF.PEX" type="data"/>
+            </dir>
+            <dir name="KAMI" source="Robbit mon Dieu (Japan)/KAMI">
+                <file name="KAMI.PEX" source="Robbit mon Dieu (Japan)/KAMI/KAMI.PEX" type="data"/>
+                <file name="COMMON.FAC" source="Robbit mon Dieu (Japan)/KAMI/COMMON.FAC" type="data"/>
+                <file name="KAMI_AKI.FAC" source="Robbit mon Dieu (Japan)/KAMI/KAMI_AKI.FAC" type="data"/>
+                <file name="KAMI_BON.FAC" source="Robbit mon Dieu (Japan)/KAMI/KAMI_BON.FAC" type="data"/>
+                <file name="KAMI_BUT.FAC" source="Robbit mon Dieu (Japan)/KAMI/KAMI_BUT.FAC" type="data"/>
+                <file name="KAMI_DOE.FAC" source="Robbit mon Dieu (Japan)/KAMI/KAMI_DOE.FAC" type="data"/>
+                <file name="KAMI_DOT.FAC" source="Robbit mon Dieu (Japan)/KAMI/KAMI_DOT.FAC" type="data"/>
+                <file name="KAMI_DRI.FAC" source="Robbit mon Dieu (Japan)/KAMI/KAMI_DRI.FAC" type="data"/>
+                <file name="KAMI_EST.FAC" source="Robbit mon Dieu (Japan)/KAMI/KAMI_EST.FAC" type="data"/>
+                <file name="KAMI_HAN.FAC" source="Robbit mon Dieu (Japan)/KAMI/KAMI_HAN.FAC" type="data"/>
+                <file name="KAMI_ITA.FAC" source="Robbit mon Dieu (Japan)/KAMI/KAMI_ITA.FAC" type="data"/>
+                <file name="KAMI_JON.FAC" source="Robbit mon Dieu (Japan)/KAMI/KAMI_JON.FAC" type="data"/>
+                <file name="KAMI_KON.FAC" source="Robbit mon Dieu (Japan)/KAMI/KAMI_KON.FAC" type="data"/>
+                <file name="KAMI_MUU.FAC" source="Robbit mon Dieu (Japan)/KAMI/KAMI_MUU.FAC" type="data"/>
+                <file name="KAMI_PRE.FAC" source="Robbit mon Dieu (Japan)/KAMI/KAMI_PRE.FAC" type="data"/>
+                <file name="KAMI_RO.FAC" source="Robbit mon Dieu (Japan)/KAMI/KAMI_RO.FAC" type="data"/>
+                <file name="KAMI_TOD.FAC" source="Robbit mon Dieu (Japan)/KAMI/KAMI_TOD.FAC" type="data"/>
+            </dir>
+            <dir name="MV" source="Robbit mon Dieu (Japan)/MV">
+                <file name="END.STR" source="Robbit mon Dieu (Japan)/MV/END.STR" type="mixed"/>
+                <file name="OP.STR" source="Robbit mon Dieu (Japan)/MV/OP.STR" type="mixed"/>
+                <dir name="C0" source="Robbit mon Dieu (Japan)/MV/C0">
+                    <file name="C00.STR" source="Robbit mon Dieu (Japan)/MV/C0/C00.STR" type="data"/>
+                    <file name="C01.STR" source="Robbit mon Dieu (Japan)/MV/C0/C01.STR" type="data"/>
+                    <file name="C02.STR" source="Robbit mon Dieu (Japan)/MV/C0/C02.STR" type="data"/>
+                    <file name="C03.STR" source="Robbit mon Dieu (Japan)/MV/C0/C03.STR" type="data"/>
+                    <file name="C04.STR" source="Robbit mon Dieu (Japan)/MV/C0/C04.STR" type="data"/>
+                    <file name="C05.STR" source="Robbit mon Dieu (Japan)/MV/C0/C05.STR" type="data"/>
+                    <file name="C06.STR" source="Robbit mon Dieu (Japan)/MV/C0/C06.STR" type="data"/>
+                    <file name="C07.STR" source="Robbit mon Dieu (Japan)/MV/C0/C07.STR" type="data"/>
+                    <file name="C08.STR" source="Robbit mon Dieu (Japan)/MV/C0/C08.STR" type="data"/>
+                    <file name="C09.STR" source="Robbit mon Dieu (Japan)/MV/C0/C09.STR" type="data"/>
+                    <file name="C10.STR" source="Robbit mon Dieu (Japan)/MV/C0/C10.STR" type="data"/>
+                    <file name="C11.STR" source="Robbit mon Dieu (Japan)/MV/C0/C11.STR" type="data"/>
+                    <file name="C12.STR" source="Robbit mon Dieu (Japan)/MV/C0/C12.STR" type="data"/>
+                    <file name="C13.STR" source="Robbit mon Dieu (Japan)/MV/C0/C13.STR" type="data"/>
+                    <file name="C14.STR" source="Robbit mon Dieu (Japan)/MV/C0/C14.STR" type="data"/>
+                    <file name="C15.STR" source="Robbit mon Dieu (Japan)/MV/C0/C15.STR" type="data"/>
+                    <file name="C16.STR" source="Robbit mon Dieu (Japan)/MV/C0/C16.STR" type="data"/>
+                    <file name="C17.STR" source="Robbit mon Dieu (Japan)/MV/C0/C17.STR" type="data"/>
+                    <file name="C18.STR" source="Robbit mon Dieu (Japan)/MV/C0/C18.STR" type="data"/>
+                    <file name="C19.STR" source="Robbit mon Dieu (Japan)/MV/C0/C19.STR" type="data"/>
+                </dir>
+                <dir name="C1" source="Robbit mon Dieu (Japan)/MV/C1">
+                    <file name="C20.STR" source="Robbit mon Dieu (Japan)/MV/C1/C20.STR" type="data"/>
+                    <file name="C21.STR" source="Robbit mon Dieu (Japan)/MV/C1/C21.STR" type="data"/>
+                    <file name="C22.STR" source="Robbit mon Dieu (Japan)/MV/C1/C22.STR" type="data"/>
+                    <file name="C23.STR" source="Robbit mon Dieu (Japan)/MV/C1/C23.STR" type="data"/>
+                    <file name="C24.STR" source="Robbit mon Dieu (Japan)/MV/C1/C24.STR" type="data"/>
+                    <file name="C25.STR" source="Robbit mon Dieu (Japan)/MV/C1/C25.STR" type="data"/>
+                    <file name="C26.STR" source="Robbit mon Dieu (Japan)/MV/C1/C26.STR" type="data"/>
+                    <file name="C27.STR" source="Robbit mon Dieu (Japan)/MV/C1/C27.STR" type="data"/>
+                    <file name="C28.STR" source="Robbit mon Dieu (Japan)/MV/C1/C28.STR" type="data"/>
+                    <file name="C29.STR" source="Robbit mon Dieu (Japan)/MV/C1/C29.STR" type="data"/>
+                    <file name="C30.STR" source="Robbit mon Dieu (Japan)/MV/C1/C30.STR" type="data"/>
+                    <file name="C31.STR" source="Robbit mon Dieu (Japan)/MV/C1/C31.STR" type="data"/>
+                    <file name="C32.STR" source="Robbit mon Dieu (Japan)/MV/C1/C32.STR" type="data"/>
+                    <file name="C33.STR" source="Robbit mon Dieu (Japan)/MV/C1/C33.STR" type="data"/>
+                    <file name="C34.STR" source="Robbit mon Dieu (Japan)/MV/C1/C34.STR" type="data"/>
+                    <file name="C35.STR" source="Robbit mon Dieu (Japan)/MV/C1/C35.STR" type="data"/>
+                    <file name="C36.STR" source="Robbit mon Dieu (Japan)/MV/C1/C36.STR" type="data"/>
+                    <file name="C37.STR" source="Robbit mon Dieu (Japan)/MV/C1/C37.STR" type="data"/>
+                    <file name="C38.STR" source="Robbit mon Dieu (Japan)/MV/C1/C38.STR" type="data"/>
+                    <file name="C39.STR" source="Robbit mon Dieu (Japan)/MV/C1/C39.STR" type="data"/>
+                </dir>
+                <dir name="C2" source="Robbit mon Dieu (Japan)/MV/C2">
+                    <file name="C40.STR" source="Robbit mon Dieu (Japan)/MV/C2/C40.STR" type="data"/>
+                    <file name="C41.STR" source="Robbit mon Dieu (Japan)/MV/C2/C41.STR" type="data"/>
+                    <file name="C42.STR" source="Robbit mon Dieu (Japan)/MV/C2/C42.STR" type="data"/>
+                    <file name="C43.STR" source="Robbit mon Dieu (Japan)/MV/C2/C43.STR" type="data"/>
+                    <file name="C44.STR" source="Robbit mon Dieu (Japan)/MV/C2/C44.STR" type="data"/>
+                    <file name="C45.STR" source="Robbit mon Dieu (Japan)/MV/C2/C45.STR" type="data"/>
+                    <file name="C46.STR" source="Robbit mon Dieu (Japan)/MV/C2/C46.STR" type="data"/>
+                    <file name="C47.STR" source="Robbit mon Dieu (Japan)/MV/C2/C47.STR" type="data"/>
+                    <file name="C48.STR" source="Robbit mon Dieu (Japan)/MV/C2/C48.STR" type="data"/>
+                    <file name="C49.STR" source="Robbit mon Dieu (Japan)/MV/C2/C49.STR" type="data"/>
+                    <file name="C50.STR" source="Robbit mon Dieu (Japan)/MV/C2/C50.STR" type="data"/>
+                    <file name="C51.STR" source="Robbit mon Dieu (Japan)/MV/C2/C51.STR" type="data"/>
+                    <file name="C52.STR" source="Robbit mon Dieu (Japan)/MV/C2/C52.STR" type="data"/>
+                    <file name="C53.STR" source="Robbit mon Dieu (Japan)/MV/C2/C53.STR" type="data"/>
+                    <file name="C54.STR" source="Robbit mon Dieu (Japan)/MV/C2/C54.STR" type="data"/>
+                    <file name="C55.STR" source="Robbit mon Dieu (Japan)/MV/C2/C55.STR" type="data"/>
+                    <file name="C56.STR" source="Robbit mon Dieu (Japan)/MV/C2/C56.STR" type="data"/>
+                    <file name="C57.STR" source="Robbit mon Dieu (Japan)/MV/C2/C57.STR" type="data"/>
+                    <file name="C58.STR" source="Robbit mon Dieu (Japan)/MV/C2/C58.STR" type="data"/>
+                    <file name="C59.STR" source="Robbit mon Dieu (Japan)/MV/C2/C59.STR" type="data"/>
+                </dir>
+                <dir name="C3" source="Robbit mon Dieu (Japan)/MV/C3">
+                    <file name="C60.STR" source="Robbit mon Dieu (Japan)/MV/C3/C60.STR" type="data"/>
+                    <file name="C61.STR" source="Robbit mon Dieu (Japan)/MV/C3/C61.STR" type="data"/>
+                    <file name="C62.STR" source="Robbit mon Dieu (Japan)/MV/C3/C62.STR" type="data"/>
+                    <file name="C63.STR" source="Robbit mon Dieu (Japan)/MV/C3/C63.STR" type="data"/>
+                    <file name="C64.STR" source="Robbit mon Dieu (Japan)/MV/C3/C64.STR" type="data"/>
+                    <file name="C65.STR" source="Robbit mon Dieu (Japan)/MV/C3/C65.STR" type="data"/>
+                    <file name="C66.STR" source="Robbit mon Dieu (Japan)/MV/C3/C66.STR" type="data"/>
+                    <file name="C67.STR" source="Robbit mon Dieu (Japan)/MV/C3/C67.STR" type="data"/>
+                    <file name="C68.STR" source="Robbit mon Dieu (Japan)/MV/C3/C68.STR" type="data"/>
+                    <file name="C69.STR" source="Robbit mon Dieu (Japan)/MV/C3/C69.STR" type="data"/>
+                    <file name="C70.STR" source="Robbit mon Dieu (Japan)/MV/C3/C70.STR" type="data"/>
+                    <file name="C71.STR" source="Robbit mon Dieu (Japan)/MV/C3/C71.STR" type="data"/>
+                    <file name="C72.STR" source="Robbit mon Dieu (Japan)/MV/C3/C72.STR" type="data"/>
+                    <file name="C73.STR" source="Robbit mon Dieu (Japan)/MV/C3/C73.STR" type="data"/>
+                    <file name="C74.STR" source="Robbit mon Dieu (Japan)/MV/C3/C74.STR" type="data"/>
+                    <file name="C75.STR" source="Robbit mon Dieu (Japan)/MV/C3/C75.STR" type="data"/>
+                    <file name="C76.STR" source="Robbit mon Dieu (Japan)/MV/C3/C76.STR" type="data"/>
+                    <file name="C77.STR" source="Robbit mon Dieu (Japan)/MV/C3/C77.STR" type="data"/>
+                    <file name="C78.STR" source="Robbit mon Dieu (Japan)/MV/C3/C78.STR" type="data"/>
+                    <file name="C79.STR" source="Robbit mon Dieu (Japan)/MV/C3/C79.STR" type="data"/>
+                </dir>
+                <dir name="C4" source="Robbit mon Dieu (Japan)/MV/C4">
+                    <file name="C80.STR" source="Robbit mon Dieu (Japan)/MV/C4/C80.STR" type="data"/>
+                    <file name="C81.STR" source="Robbit mon Dieu (Japan)/MV/C4/C81.STR" type="data"/>
+                    <file name="C82.STR" source="Robbit mon Dieu (Japan)/MV/C4/C82.STR" type="data"/>
+                    <file name="C83.STR" source="Robbit mon Dieu (Japan)/MV/C4/C83.STR" type="data"/>
+                    <file name="C84.STR" source="Robbit mon Dieu (Japan)/MV/C4/C84.STR" type="data"/>
+                    <file name="C85.STR" source="Robbit mon Dieu (Japan)/MV/C4/C85.STR" type="data"/>
+                    <file name="C86.STR" source="Robbit mon Dieu (Japan)/MV/C4/C86.STR" type="data"/>
+                    <file name="C87.STR" source="Robbit mon Dieu (Japan)/MV/C4/C87.STR" type="data"/>
+                    <file name="C88.STR" source="Robbit mon Dieu (Japan)/MV/C4/C88.STR" type="data"/>
+                    <file name="C89.STR" source="Robbit mon Dieu (Japan)/MV/C4/C89.STR" type="data"/>
+                    <file name="C90.STR" source="Robbit mon Dieu (Japan)/MV/C4/C90.STR" type="data"/>
+                    <file name="C91.STR" source="Robbit mon Dieu (Japan)/MV/C4/C91.STR" type="data"/>
+                    <file name="C92.STR" source="Robbit mon Dieu (Japan)/MV/C4/C92.STR" type="data"/>
+                    <file name="C93.STR" source="Robbit mon Dieu (Japan)/MV/C4/C93.STR" type="data"/>
+                    <file name="C94.STR" source="Robbit mon Dieu (Japan)/MV/C4/C94.STR" type="data"/>
+                    <file name="C95.STR" source="Robbit mon Dieu (Japan)/MV/C4/C95.STR" type="data"/>
+                    <file name="C96.STR" source="Robbit mon Dieu (Japan)/MV/C4/C96.STR" type="data"/>
+                    <file name="C97.STR" source="Robbit mon Dieu (Japan)/MV/C4/C97.STR" type="data"/>
+                    <file name="C98.STR" source="Robbit mon Dieu (Japan)/MV/C4/C98.STR" type="data"/>
+                    <file name="C99.STR" source="Robbit mon Dieu (Japan)/MV/C4/C99.STR" type="data"/>
+                </dir>
+            </dir>
+            <dir name="NEWS" source="Robbit mon Dieu (Japan)/NEWS">
+                <file name="NEWS.PEX" source="Robbit mon Dieu (Japan)/NEWS/NEWS.PEX" type="data"/>
+                <file name="NEWS_DAT.FAC" source="Robbit mon Dieu (Japan)/NEWS/NEWS_DAT.FAC" type="data"/>
+                <file name="NEWS_01.FAC" source="Robbit mon Dieu (Japan)/NEWS/NEWS_01.FAC" type="data"/>
+                <file name="NEWS_02.FAC" source="Robbit mon Dieu (Japan)/NEWS/NEWS_02.FAC" type="data"/>
+                <file name="NEWS_03.FAC" source="Robbit mon Dieu (Japan)/NEWS/NEWS_03.FAC" type="data"/>
+                <file name="NEWS_04.FAC" source="Robbit mon Dieu (Japan)/NEWS/NEWS_04.FAC" type="data"/>
+                <file name="NEWS_05.FAC" source="Robbit mon Dieu (Japan)/NEWS/NEWS_05.FAC" type="data"/>
+                <file name="NEWS_06.FAC" source="Robbit mon Dieu (Japan)/NEWS/NEWS_06.FAC" type="data"/>
+                <file name="NEWS_07.FAC" source="Robbit mon Dieu (Japan)/NEWS/NEWS_07.FAC" type="data"/>
+                <file name="NEWS_08.FAC" source="Robbit mon Dieu (Japan)/NEWS/NEWS_08.FAC" type="data"/>
+            </dir>
+            <dir name="EVENT" source="Robbit mon Dieu (Japan)/EVENT">
+                <dir name="00" source="Robbit mon Dieu (Japan)/EVENT/00">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/00/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/00/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/00/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB01_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/EB01_DAT.FAC" type="data"/>
+                    <file name="EB02_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/EB02_DAT.FAC" type="data"/>
+                    <file name="EE01_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/EE01_DAT.FAC" type="data"/>
+                    <file name="EE02_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/EE02_DAT.FAC" type="data"/>
+                    <file name="M01.PEX" source="Robbit mon Dieu (Japan)/EVENT/00/M01.PEX" type="data"/>
+                    <file name="M02.PEX" source="Robbit mon Dieu (Japan)/EVENT/00/M02.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/AI2_VAB.FAC" type="data"/>
+                    <file name="M01_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/M01_VAB.FAC" type="data"/>
+                    <file name="M02_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/M02_VAB.FAC" type="data"/>
+                    <file name="M01_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/M01_DAT.FAC" type="data"/>
+                    <file name="M02_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/M02_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/SYS_DAT.FAC" type="data"/>
+                    <file name="M01_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/M01_ENE.FAC" type="data"/>
+                    <file name="M02_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/M02_ENE.FAC" type="data"/>
+                    <file name="EB01_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/EB01_ENE.FAC" type="data"/>
+                    <file name="EB02_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/EB02_ENE.FAC" type="data"/>
+                    <file name="EE01_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/EE01_ENE.FAC" type="data"/>
+                    <file name="EE02_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/00/EE02_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="01" source="Robbit mon Dieu (Japan)/EVENT/01">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/01/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/01/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/01/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB03_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/EB03_DAT.FAC" type="data"/>
+                    <file name="EB04_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/EB04_DAT.FAC" type="data"/>
+                    <file name="EE03_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/EE03_DAT.FAC" type="data"/>
+                    <file name="EE04_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/EE04_DAT.FAC" type="data"/>
+                    <file name="M03.PEX" source="Robbit mon Dieu (Japan)/EVENT/01/M03.PEX" type="data"/>
+                    <file name="M04.PEX" source="Robbit mon Dieu (Japan)/EVENT/01/M04.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/AI2_VAB.FAC" type="data"/>
+                    <file name="M03_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/M03_VAB.FAC" type="data"/>
+                    <file name="M04_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/M04_VAB.FAC" type="data"/>
+                    <file name="M03_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/M03_DAT.FAC" type="data"/>
+                    <file name="M04_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/M04_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/SYS_DAT.FAC" type="data"/>
+                    <file name="M03_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/M03_ENE.FAC" type="data"/>
+                    <file name="M04_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/M04_ENE.FAC" type="data"/>
+                    <file name="EB03_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/EB03_ENE.FAC" type="data"/>
+                    <file name="EB04_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/EB04_ENE.FAC" type="data"/>
+                    <file name="EE03_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/EE03_ENE.FAC" type="data"/>
+                    <file name="EE04_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/01/EE04_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="02" source="Robbit mon Dieu (Japan)/EVENT/02">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/02/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/02/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/02/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB05_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/EB05_DAT.FAC" type="data"/>
+                    <file name="EB06_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/EB06_DAT.FAC" type="data"/>
+                    <file name="EE05_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/EE05_DAT.FAC" type="data"/>
+                    <file name="EE06_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/EE06_DAT.FAC" type="data"/>
+                    <file name="M05.PEX" source="Robbit mon Dieu (Japan)/EVENT/02/M05.PEX" type="data"/>
+                    <file name="M06.PEX" source="Robbit mon Dieu (Japan)/EVENT/02/M06.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/AI2_VAB.FAC" type="data"/>
+                    <file name="M05_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/M05_VAB.FAC" type="data"/>
+                    <file name="M06_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/M06_VAB.FAC" type="data"/>
+                    <file name="M06_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/M06_DAT.FAC" type="data"/>
+                    <file name="M05_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/M05_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/SYS_DAT.FAC" type="data"/>
+                    <file name="M05_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/M05_ENE.FAC" type="data"/>
+                    <file name="M06_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/M06_ENE.FAC" type="data"/>
+                    <file name="EB05_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/EB05_ENE.FAC" type="data"/>
+                    <file name="EB06_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/EB06_ENE.FAC" type="data"/>
+                    <file name="EE05_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/EE05_ENE.FAC" type="data"/>
+                    <file name="EE06_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/02/EE06_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="03" source="Robbit mon Dieu (Japan)/EVENT/03">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/03/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/03/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/03/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB07_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/EB07_DAT.FAC" type="data"/>
+                    <file name="EB08_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/EB08_DAT.FAC" type="data"/>
+                    <file name="EE07_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/EE07_DAT.FAC" type="data"/>
+                    <file name="EE08_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/EE08_DAT.FAC" type="data"/>
+                    <file name="M07.PEX" source="Robbit mon Dieu (Japan)/EVENT/03/M07.PEX" type="data"/>
+                    <file name="M08.PEX" source="Robbit mon Dieu (Japan)/EVENT/03/M08.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/AI2_VAB.FAC" type="data"/>
+                    <file name="M07_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/M07_VAB.FAC" type="data"/>
+                    <file name="M08_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/M08_VAB.FAC" type="data"/>
+                    <file name="M07_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/M07_DAT.FAC" type="data"/>
+                    <file name="M08_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/M08_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/SYS_DAT.FAC" type="data"/>
+                    <file name="M07_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/M07_ENE.FAC" type="data"/>
+                    <file name="M08_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/M08_ENE.FAC" type="data"/>
+                    <file name="EB07_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/EB07_ENE.FAC" type="data"/>
+                    <file name="EB08_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/EB08_ENE.FAC" type="data"/>
+                    <file name="EE07_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/EE07_ENE.FAC" type="data"/>
+                    <file name="EE08_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/03/EE08_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="04" source="Robbit mon Dieu (Japan)/EVENT/04">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/04/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/04/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/04/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB09_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/EB09_DAT.FAC" type="data"/>
+                    <file name="EB10_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/EB10_DAT.FAC" type="data"/>
+                    <file name="EE09_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/EE09_DAT.FAC" type="data"/>
+                    <file name="EE10_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/EE10_DAT.FAC" type="data"/>
+                    <file name="M09.PEX" source="Robbit mon Dieu (Japan)/EVENT/04/M09.PEX" type="data"/>
+                    <file name="M10.PEX" source="Robbit mon Dieu (Japan)/EVENT/04/M10.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/AI2_VAB.FAC" type="data"/>
+                    <file name="M09_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/M09_VAB.FAC" type="data"/>
+                    <file name="M10_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/M10_VAB.FAC" type="data"/>
+                    <file name="M09_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/M09_DAT.FAC" type="data"/>
+                    <file name="M10_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/M10_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/SYS_DAT.FAC" type="data"/>
+                    <file name="M09_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/M09_ENE.FAC" type="data"/>
+                    <file name="M10_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/M10_ENE.FAC" type="data"/>
+                    <file name="EB09_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/EB09_ENE.FAC" type="data"/>
+                    <file name="EB10_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/EB10_ENE.FAC" type="data"/>
+                    <file name="EE09_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/EE09_ENE.FAC" type="data"/>
+                    <file name="EE10_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/04/EE10_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="05" source="Robbit mon Dieu (Japan)/EVENT/05">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/05/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/05/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/05/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB11_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/EB11_DAT.FAC" type="data"/>
+                    <file name="EB12_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/EB12_DAT.FAC" type="data"/>
+                    <file name="EE11_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/EE11_DAT.FAC" type="data"/>
+                    <file name="EE12_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/EE12_DAT.FAC" type="data"/>
+                    <file name="M11.PEX" source="Robbit mon Dieu (Japan)/EVENT/05/M11.PEX" type="data"/>
+                    <file name="M12.PEX" source="Robbit mon Dieu (Japan)/EVENT/05/M12.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/AI2_VAB.FAC" type="data"/>
+                    <file name="M11_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/M11_VAB.FAC" type="data"/>
+                    <file name="M12_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/M12_VAB.FAC" type="data"/>
+                    <file name="M11_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/M11_ENE.FAC" type="data"/>
+                    <file name="M12_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/M12_ENE.FAC" type="data"/>
+                    <file name="M11_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/M11_DAT.FAC" type="data"/>
+                    <file name="M12_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/M12_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/SYS_DAT.FAC" type="data"/>
+                    <file name="EB11_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/EB11_ENE.FAC" type="data"/>
+                    <file name="EB12_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/EB12_ENE.FAC" type="data"/>
+                    <file name="EE11_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/EE11_ENE.FAC" type="data"/>
+                    <file name="EE12_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/05/EE12_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="06" source="Robbit mon Dieu (Japan)/EVENT/06">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/06/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/06/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/06/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB13_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/EB13_DAT.FAC" type="data"/>
+                    <file name="EB14_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/EB14_DAT.FAC" type="data"/>
+                    <file name="EE13_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/EE13_DAT.FAC" type="data"/>
+                    <file name="EE14_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/EE14_DAT.FAC" type="data"/>
+                    <file name="M13.PEX" source="Robbit mon Dieu (Japan)/EVENT/06/M13.PEX" type="data"/>
+                    <file name="M14.PEX" source="Robbit mon Dieu (Japan)/EVENT/06/M14.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/AI2_VAB.FAC" type="data"/>
+                    <file name="M13_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/M13_VAB.FAC" type="data"/>
+                    <file name="M14_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/M14_VAB.FAC" type="data"/>
+                    <file name="M13_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/M13_DAT.FAC" type="data"/>
+                    <file name="M14_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/M14_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/SYS_DAT.FAC" type="data"/>
+                    <file name="M13_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/M13_ENE.FAC" type="data"/>
+                    <file name="M14_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/M14_ENE.FAC" type="data"/>
+                    <file name="EB13_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/EB13_ENE.FAC" type="data"/>
+                    <file name="EB14_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/EB14_ENE.FAC" type="data"/>
+                    <file name="EE13_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/EE13_ENE.FAC" type="data"/>
+                    <file name="EE14_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/06/EE14_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="07" source="Robbit mon Dieu (Japan)/EVENT/07">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/07/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/07/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/07/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB15_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/EB15_DAT.FAC" type="data"/>
+                    <file name="EB16_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/EB16_DAT.FAC" type="data"/>
+                    <file name="EE15_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/EE15_DAT.FAC" type="data"/>
+                    <file name="EE16_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/EE16_DAT.FAC" type="data"/>
+                    <file name="M15.PEX" source="Robbit mon Dieu (Japan)/EVENT/07/M15.PEX" type="data"/>
+                    <file name="M16.PEX" source="Robbit mon Dieu (Japan)/EVENT/07/M16.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/AI2_VAB.FAC" type="data"/>
+                    <file name="M15_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/M15_VAB.FAC" type="data"/>
+                    <file name="M16_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/M16_VAB.FAC" type="data"/>
+                    <file name="M15_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/M15_DAT.FAC" type="data"/>
+                    <file name="M16_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/M16_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/SYS_DAT.FAC" type="data"/>
+                    <file name="M15_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/M15_ENE.FAC" type="data"/>
+                    <file name="M16_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/M16_ENE.FAC" type="data"/>
+                    <file name="EB15_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/EB15_ENE.FAC" type="data"/>
+                    <file name="EB16_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/EB16_ENE.FAC" type="data"/>
+                    <file name="EE15_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/EE15_ENE.FAC" type="data"/>
+                    <file name="EE16_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/07/EE16_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="08" source="Robbit mon Dieu (Japan)/EVENT/08">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/08/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/08/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/08/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB17_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/EB17_DAT.FAC" type="data"/>
+                    <file name="EB18_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/EB18_DAT.FAC" type="data"/>
+                    <file name="EE17_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/EE17_DAT.FAC" type="data"/>
+                    <file name="EE18_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/EE18_DAT.FAC" type="data"/>
+                    <file name="M17.PEX" source="Robbit mon Dieu (Japan)/EVENT/08/M17.PEX" type="data"/>
+                    <file name="M18.PEX" source="Robbit mon Dieu (Japan)/EVENT/08/M18.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/AI2_VAB.FAC" type="data"/>
+                    <file name="M17_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/M17_VAB.FAC" type="data"/>
+                    <file name="M18_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/M18_VAB.FAC" type="data"/>
+                    <file name="M17_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/M17_DAT.FAC" type="data"/>
+                    <file name="M18_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/M18_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/SYS_DAT.FAC" type="data"/>
+                    <file name="M17_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/M17_ENE.FAC" type="data"/>
+                    <file name="M18_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/M18_ENE.FAC" type="data"/>
+                    <file name="EB17_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/EB17_ENE.FAC" type="data"/>
+                    <file name="EB18_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/EB18_ENE.FAC" type="data"/>
+                    <file name="EE17_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/EE17_ENE.FAC" type="data"/>
+                    <file name="EE18_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/08/EE18_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="09" source="Robbit mon Dieu (Japan)/EVENT/09">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/09/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/09/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/09/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB19_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/EB19_DAT.FAC" type="data"/>
+                    <file name="EB20_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/EB20_DAT.FAC" type="data"/>
+                    <file name="EE19_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/EE19_DAT.FAC" type="data"/>
+                    <file name="EE20_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/EE20_DAT.FAC" type="data"/>
+                    <file name="M19.PEX" source="Robbit mon Dieu (Japan)/EVENT/09/M19.PEX" type="data"/>
+                    <file name="M20.PEX" source="Robbit mon Dieu (Japan)/EVENT/09/M20.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/AI2_VAB.FAC" type="data"/>
+                    <file name="M19_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/M19_VAB.FAC" type="data"/>
+                    <file name="M20_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/M20_VAB.FAC" type="data"/>
+                    <file name="M19_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/M19_DAT.FAC" type="data"/>
+                    <file name="M20_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/M20_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/SYS_DAT.FAC" type="data"/>
+                    <file name="M19_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/M19_ENE.FAC" type="data"/>
+                    <file name="M20_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/M20_ENE.FAC" type="data"/>
+                    <file name="EB19_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/EB19_ENE.FAC" type="data"/>
+                    <file name="EB20_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/EB20_ENE.FAC" type="data"/>
+                    <file name="EE19_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/EE19_ENE.FAC" type="data"/>
+                    <file name="EE20_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/09/EE20_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="10" source="Robbit mon Dieu (Japan)/EVENT/10">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/10/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/10/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/10/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB21_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/EB21_DAT.FAC" type="data"/>
+                    <file name="EB22_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/EB22_DAT.FAC" type="data"/>
+                    <file name="EE21_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/EE21_DAT.FAC" type="data"/>
+                    <file name="EE22_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/EE22_DAT.FAC" type="data"/>
+                    <file name="M21.PEX" source="Robbit mon Dieu (Japan)/EVENT/10/M21.PEX" type="data"/>
+                    <file name="M22.PEX" source="Robbit mon Dieu (Japan)/EVENT/10/M22.PEX" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/AI2_VAB.FAC" type="data"/>
+                    <file name="M21_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/M21_VAB.FAC" type="data"/>
+                    <file name="M22_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/M22_VAB.FAC" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/SYS_VAB.FAC" type="data"/>
+                    <file name="M21_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/M21_DAT.FAC" type="data"/>
+                    <file name="M22_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/M22_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/SYS_DAT.FAC" type="data"/>
+                    <file name="M21_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/M21_ENE.FAC" type="data"/>
+                    <file name="M22_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/M22_ENE.FAC" type="data"/>
+                    <file name="EB21_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/EB21_ENE.FAC" type="data"/>
+                    <file name="EB22_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/EB22_ENE.FAC" type="data"/>
+                    <file name="EE21_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/EE21_ENE.FAC" type="data"/>
+                    <file name="EE22_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/10/EE22_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="11" source="Robbit mon Dieu (Japan)/EVENT/11">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/11/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/11/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/11/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB23_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/EB23_DAT.FAC" type="data"/>
+                    <file name="EB24_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/EB24_DAT.FAC" type="data"/>
+                    <file name="EE23_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/EE23_DAT.FAC" type="data"/>
+                    <file name="EE24_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/EE24_DAT.FAC" type="data"/>
+                    <file name="M23.PEX" source="Robbit mon Dieu (Japan)/EVENT/11/M23.PEX" type="data"/>
+                    <file name="M24.PEX" source="Robbit mon Dieu (Japan)/EVENT/11/M24.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/AI2_VAB.FAC" type="data"/>
+                    <file name="M23_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/M23_VAB.FAC" type="data"/>
+                    <file name="M24_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/M24_VAB.FAC" type="data"/>
+                    <file name="M23_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/M23_DAT.FAC" type="data"/>
+                    <file name="M24_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/M24_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/SYS_DAT.FAC" type="data"/>
+                    <file name="M23_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/M23_ENE.FAC" type="data"/>
+                    <file name="M24_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/M24_ENE.FAC" type="data"/>
+                    <file name="EB23_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/EB23_ENE.FAC" type="data"/>
+                    <file name="EB24_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/EB24_ENE.FAC" type="data"/>
+                    <file name="EE23_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/EE23_ENE.FAC" type="data"/>
+                    <file name="EE24_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/11/EE24_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="12" source="Robbit mon Dieu (Japan)/EVENT/12">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/12/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/12/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/12/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB25_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/EB25_DAT.FAC" type="data"/>
+                    <file name="EB26_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/EB26_DAT.FAC" type="data"/>
+                    <file name="EE25_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/EE25_DAT.FAC" type="data"/>
+                    <file name="EE26_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/EE26_DAT.FAC" type="data"/>
+                    <file name="M25.PEX" source="Robbit mon Dieu (Japan)/EVENT/12/M25.PEX" type="data"/>
+                    <file name="M26.PEX" source="Robbit mon Dieu (Japan)/EVENT/12/M26.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/AI2_VAB.FAC" type="data"/>
+                    <file name="M25_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/M25_VAB.FAC" type="data"/>
+                    <file name="M26_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/M26_VAB.FAC" type="data"/>
+                    <file name="M25_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/M25_DAT.FAC" type="data"/>
+                    <file name="M26_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/M26_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/SYS_DAT.FAC" type="data"/>
+                    <file name="M25_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/M25_ENE.FAC" type="data"/>
+                    <file name="M26_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/M26_ENE.FAC" type="data"/>
+                    <file name="EB25_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/EB25_ENE.FAC" type="data"/>
+                    <file name="EB26_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/EB26_ENE.FAC" type="data"/>
+                    <file name="EE25_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/EE25_ENE.FAC" type="data"/>
+                    <file name="EE26_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/12/EE26_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="13" source="Robbit mon Dieu (Japan)/EVENT/13">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/13/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/13/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/13/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB27_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/EB27_DAT.FAC" type="data"/>
+                    <file name="EB28_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/EB28_DAT.FAC" type="data"/>
+                    <file name="EE27_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/EE27_DAT.FAC" type="data"/>
+                    <file name="EE28_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/EE28_DAT.FAC" type="data"/>
+                    <file name="M27.PEX" source="Robbit mon Dieu (Japan)/EVENT/13/M27.PEX" type="data"/>
+                    <file name="M28.PEX" source="Robbit mon Dieu (Japan)/EVENT/13/M28.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/AI2_VAB.FAC" type="data"/>
+                    <file name="M27_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/M27_VAB.FAC" type="data"/>
+                    <file name="M28_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/M28_VAB.FAC" type="data"/>
+                    <file name="M27_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/M27_DAT.FAC" type="data"/>
+                    <file name="M28_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/M28_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/SYS_DAT.FAC" type="data"/>
+                    <file name="M27_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/M27_ENE.FAC" type="data"/>
+                    <file name="M28_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/M28_ENE.FAC" type="data"/>
+                    <file name="EB27_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/EB27_ENE.FAC" type="data"/>
+                    <file name="EB28_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/EB28_ENE.FAC" type="data"/>
+                    <file name="EE27_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/EE27_ENE.FAC" type="data"/>
+                    <file name="EE28_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/13/EE28_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="14" source="Robbit mon Dieu (Japan)/EVENT/14">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/14/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/14/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/14/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB29_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/EB29_DAT.FAC" type="data"/>
+                    <file name="EB30_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/EB30_DAT.FAC" type="data"/>
+                    <file name="EE29_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/EE29_DAT.FAC" type="data"/>
+                    <file name="EE30_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/EE30_DAT.FAC" type="data"/>
+                    <file name="M29.PEX" source="Robbit mon Dieu (Japan)/EVENT/14/M29.PEX" type="data"/>
+                    <file name="M30.PEX" source="Robbit mon Dieu (Japan)/EVENT/14/M30.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/AI2_VAB.FAC" type="data"/>
+                    <file name="M29_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/M29_VAB.FAC" type="data"/>
+                    <file name="M30_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/M30_VAB.FAC" type="data"/>
+                    <file name="M29_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/M29_DAT.FAC" type="data"/>
+                    <file name="M30_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/M30_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/SYS_DAT.FAC" type="data"/>
+                    <file name="M29_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/M29_ENE.FAC" type="data"/>
+                    <file name="M30_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/M30_ENE.FAC" type="data"/>
+                    <file name="EB29_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/EB29_ENE.FAC" type="data"/>
+                    <file name="EB30_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/EB30_ENE.FAC" type="data"/>
+                    <file name="EE29_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/EE29_ENE.FAC" type="data"/>
+                    <file name="EE30_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/14/EE30_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="15" source="Robbit mon Dieu (Japan)/EVENT/15">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/15/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/15/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/15/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB31_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/EB31_DAT.FAC" type="data"/>
+                    <file name="EB32_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/EB32_DAT.FAC" type="data"/>
+                    <file name="EE31_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/EE31_DAT.FAC" type="data"/>
+                    <file name="EE32_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/EE32_DAT.FAC" type="data"/>
+                    <file name="M31.PEX" source="Robbit mon Dieu (Japan)/EVENT/15/M31.PEX" type="data"/>
+                    <file name="M32.PEX" source="Robbit mon Dieu (Japan)/EVENT/15/M32.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/AI2_VAB.FAC" type="data"/>
+                    <file name="M31_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/M31_VAB.FAC" type="data"/>
+                    <file name="M32_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/M32_VAB.FAC" type="data"/>
+                    <file name="M31_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/M31_DAT.FAC" type="data"/>
+                    <file name="M32_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/M32_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/SYS_DAT.FAC" type="data"/>
+                    <file name="M31_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/M31_ENE.FAC" type="data"/>
+                    <file name="M32_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/M32_ENE.FAC" type="data"/>
+                    <file name="EB31_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/EB31_ENE.FAC" type="data"/>
+                    <file name="EB32_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/EB32_ENE.FAC" type="data"/>
+                    <file name="EE31_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/EE31_ENE.FAC" type="data"/>
+                    <file name="EE32_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/15/EE32_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="16" source="Robbit mon Dieu (Japan)/EVENT/16">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/16/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/16/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/16/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB33_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/EB33_DAT.FAC" type="data"/>
+                    <file name="EB34_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/EB34_DAT.FAC" type="data"/>
+                    <file name="EE33_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/EE33_DAT.FAC" type="data"/>
+                    <file name="EE34_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/EE34_DAT.FAC" type="data"/>
+                    <file name="M33.PEX" source="Robbit mon Dieu (Japan)/EVENT/16/M33.PEX" type="data"/>
+                    <file name="M34.PEX" source="Robbit mon Dieu (Japan)/EVENT/16/M34.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/AI2_VAB.FAC" type="data"/>
+                    <file name="M33_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/M33_VAB.FAC" type="data"/>
+                    <file name="M34_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/M34_VAB.FAC" type="data"/>
+                    <file name="M33_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/M33_DAT.FAC" type="data"/>
+                    <file name="M34_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/M34_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/SYS_DAT.FAC" type="data"/>
+                    <file name="M33_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/M33_ENE.FAC" type="data"/>
+                    <file name="M34_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/M34_ENE.FAC" type="data"/>
+                    <file name="EB33_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/EB33_ENE.FAC" type="data"/>
+                    <file name="EB34_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/EB34_ENE.FAC" type="data"/>
+                    <file name="EE33_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/EE33_ENE.FAC" type="data"/>
+                    <file name="EE34_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/16/EE34_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="17" source="Robbit mon Dieu (Japan)/EVENT/17">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/17/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/17/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/17/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB35_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/EB35_DAT.FAC" type="data"/>
+                    <file name="EB36_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/EB36_DAT.FAC" type="data"/>
+                    <file name="EE35_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/EE35_DAT.FAC" type="data"/>
+                    <file name="EE36_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/EE36_DAT.FAC" type="data"/>
+                    <file name="M35.PEX" source="Robbit mon Dieu (Japan)/EVENT/17/M35.PEX" type="data"/>
+                    <file name="M36.PEX" source="Robbit mon Dieu (Japan)/EVENT/17/M36.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/AI2_VAB.FAC" type="data"/>
+                    <file name="M35_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/M35_VAB.FAC" type="data"/>
+                    <file name="M36_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/M36_VAB.FAC" type="data"/>
+                    <file name="M35_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/M35_DAT.FAC" type="data"/>
+                    <file name="M36_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/M36_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/SYS_DAT.FAC" type="data"/>
+                    <file name="M35_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/M35_ENE.FAC" type="data"/>
+                    <file name="M36_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/M36_ENE.FAC" type="data"/>
+                    <file name="EB35_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/EB35_ENE.FAC" type="data"/>
+                    <file name="EB36_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/EB36_ENE.FAC" type="data"/>
+                    <file name="EE35_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/EE35_ENE.FAC" type="data"/>
+                    <file name="EE36_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/17/EE36_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="18" source="Robbit mon Dieu (Japan)/EVENT/18">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/18/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/18/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/18/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB37_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/EB37_DAT.FAC" type="data"/>
+                    <file name="EB38_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/EB38_DAT.FAC" type="data"/>
+                    <file name="EE37_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/EE37_DAT.FAC" type="data"/>
+                    <file name="EE38_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/EE38_DAT.FAC" type="data"/>
+                    <file name="M37.PEX" source="Robbit mon Dieu (Japan)/EVENT/18/M37.PEX" type="data"/>
+                    <file name="M38.PEX" source="Robbit mon Dieu (Japan)/EVENT/18/M38.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/AI2_VAB.FAC" type="data"/>
+                    <file name="M37_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/M37_VAB.FAC" type="data"/>
+                    <file name="M38_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/M38_VAB.FAC" type="data"/>
+                    <file name="M37_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/M37_DAT.FAC" type="data"/>
+                    <file name="M38_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/M38_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/SYS_DAT.FAC" type="data"/>
+                    <file name="M37_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/M37_ENE.FAC" type="data"/>
+                    <file name="M38_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/M38_ENE.FAC" type="data"/>
+                    <file name="EB37_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/EB37_ENE.FAC" type="data"/>
+                    <file name="EB38_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/EB38_ENE.FAC" type="data"/>
+                    <file name="EE37_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/EE37_ENE.FAC" type="data"/>
+                    <file name="EE38_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/18/EE38_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="19" source="Robbit mon Dieu (Japan)/EVENT/19">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/19/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/19/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/19/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB39_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/EB39_DAT.FAC" type="data"/>
+                    <file name="EB40_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/EB40_DAT.FAC" type="data"/>
+                    <file name="EE39_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/EE39_DAT.FAC" type="data"/>
+                    <file name="EE40_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/EE40_DAT.FAC" type="data"/>
+                    <file name="M39.PEX" source="Robbit mon Dieu (Japan)/EVENT/19/M39.PEX" type="data"/>
+                    <file name="M40.PEX" source="Robbit mon Dieu (Japan)/EVENT/19/M40.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/AI2_VAB.FAC" type="data"/>
+                    <file name="M39_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/M39_VAB.FAC" type="data"/>
+                    <file name="M40_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/M40_VAB.FAC" type="data"/>
+                    <file name="M39_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/M39_DAT.FAC" type="data"/>
+                    <file name="M40_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/M40_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/SYS_DAT.FAC" type="data"/>
+                    <file name="M39_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/M39_ENE.FAC" type="data"/>
+                    <file name="M40_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/M40_ENE.FAC" type="data"/>
+                    <file name="EB39_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/EB39_ENE.FAC" type="data"/>
+                    <file name="EB40_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/EB40_ENE.FAC" type="data"/>
+                    <file name="EE39_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/EE39_ENE.FAC" type="data"/>
+                    <file name="EE40_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/19/EE40_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="20" source="Robbit mon Dieu (Japan)/EVENT/20">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/20/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/20/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/20/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB41_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/EB41_DAT.FAC" type="data"/>
+                    <file name="EB42_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/EB42_DAT.FAC" type="data"/>
+                    <file name="EE41_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/EE41_DAT.FAC" type="data"/>
+                    <file name="EE42_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/EE42_DAT.FAC" type="data"/>
+                    <file name="M41.PEX" source="Robbit mon Dieu (Japan)/EVENT/20/M41.PEX" type="data"/>
+                    <file name="M42.PEX" source="Robbit mon Dieu (Japan)/EVENT/20/M42.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/AI2_VAB.FAC" type="data"/>
+                    <file name="M41_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/M41_VAB.FAC" type="data"/>
+                    <file name="M42_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/M42_VAB.FAC" type="data"/>
+                    <file name="M41_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/M41_DAT.FAC" type="data"/>
+                    <file name="M42_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/M42_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/SYS_DAT.FAC" type="data"/>
+                    <file name="M41_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/M41_ENE.FAC" type="data"/>
+                    <file name="M42_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/M42_ENE.FAC" type="data"/>
+                    <file name="EB41_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/EB41_ENE.FAC" type="data"/>
+                    <file name="EB42_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/EB42_ENE.FAC" type="data"/>
+                    <file name="EE41_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/EE41_ENE.FAC" type="data"/>
+                    <file name="EE42_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/20/EE42_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="21" source="Robbit mon Dieu (Japan)/EVENT/21">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/21/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/21/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/21/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB43_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/EB43_DAT.FAC" type="data"/>
+                    <file name="EB44_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/EB44_DAT.FAC" type="data"/>
+                    <file name="EE43_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/EE43_DAT.FAC" type="data"/>
+                    <file name="EE44_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/EE44_DAT.FAC" type="data"/>
+                    <file name="M43.PEX" source="Robbit mon Dieu (Japan)/EVENT/21/M43.PEX" type="data"/>
+                    <file name="M44.PEX" source="Robbit mon Dieu (Japan)/EVENT/21/M44.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/SYS_VAB.FAC" type="data"/>
+                    <file name="M43_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/M43_VAB.FAC" type="data"/>
+                    <file name="M44_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/M44_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/AI2_VAB.FAC" type="data"/>
+                    <file name="M43_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/M43_DAT.FAC" type="data"/>
+                    <file name="M44_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/M44_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/SYS_DAT.FAC" type="data"/>
+                    <file name="M43_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/M43_ENE.FAC" type="data"/>
+                    <file name="M44_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/M44_ENE.FAC" type="data"/>
+                    <file name="EB43_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/EB43_ENE.FAC" type="data"/>
+                    <file name="EB44_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/EB44_ENE.FAC" type="data"/>
+                    <file name="EE43_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/EE43_ENE.FAC" type="data"/>
+                    <file name="EE44_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/21/EE44_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="22" source="Robbit mon Dieu (Japan)/EVENT/22">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/22/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/22/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/22/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB45_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/EB45_DAT.FAC" type="data"/>
+                    <file name="EB46_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/EB46_DAT.FAC" type="data"/>
+                    <file name="EE45_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/EE45_DAT.FAC" type="data"/>
+                    <file name="EE46_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/EE46_DAT.FAC" type="data"/>
+                    <file name="M45.PEX" source="Robbit mon Dieu (Japan)/EVENT/22/M45.PEX" type="data"/>
+                    <file name="M46.PEX" source="Robbit mon Dieu (Japan)/EVENT/22/M46.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/AI2_VAB.FAC" type="data"/>
+                    <file name="M45_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/M45_VAB.FAC" type="data"/>
+                    <file name="M46_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/M46_VAB.FAC" type="data"/>
+                    <file name="M45_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/M45_DAT.FAC" type="data"/>
+                    <file name="M46_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/M46_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/SYS_DAT.FAC" type="data"/>
+                    <file name="M45_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/M45_ENE.FAC" type="data"/>
+                    <file name="M46_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/M46_ENE.FAC" type="data"/>
+                    <file name="EB45_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/EB45_ENE.FAC" type="data"/>
+                    <file name="EB46_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/EB46_ENE.FAC" type="data"/>
+                    <file name="EE45_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/EE45_ENE.FAC" type="data"/>
+                    <file name="EE46_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/22/EE46_ENE.FAC" type="data"/>
+                </dir>
+                <dir name="23" source="Robbit mon Dieu (Japan)/EVENT/23">
+                    <file name="EV.PEX" source="Robbit mon Dieu (Japan)/EVENT/23/EV.PEX" type="data"/>
+                    <file name="EJIMAN_B.DIC" source="Robbit mon Dieu (Japan)/EVENT/23/EJIMAN_B.DIC" type="data"/>
+                    <file name="EJIMAN_E.DIC" source="Robbit mon Dieu (Japan)/EVENT/23/EJIMAN_E.DIC" type="data"/>
+                    <file name="EB47_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/23/EB47_DAT.FAC" type="data"/>
+                    <file name="EB48_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/23/EB48_DAT.FAC" type="data"/>
+                    <file name="EE47_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/23/EE47_DAT.FAC" type="data"/>
+                    <file name="M47.PEX" source="Robbit mon Dieu (Japan)/EVENT/23/M47.PEX" type="data"/>
+                    <file name="M48.PEX" source="Robbit mon Dieu (Japan)/EVENT/23/M48.PEX" type="data"/>
+                    <file name="SYS_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/23/SYS_VAB.FAC" type="data"/>
+                    <file name="AI0_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/23/AI0_VAB.FAC" type="data"/>
+                    <file name="AI1_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/23/AI1_VAB.FAC" type="data"/>
+                    <file name="AI2_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/23/AI2_VAB.FAC" type="data"/>
+                    <file name="M47_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/23/M47_VAB.FAC" type="data"/>
+                    <file name="M48_VAB.FAC" source="Robbit mon Dieu (Japan)/EVENT/23/M48_VAB.FAC" type="data"/>
+                    <file name="M47_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/23/M47_DAT.FAC" type="data"/>
+                    <file name="M48_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/23/M48_DAT.FAC" type="data"/>
+                    <file name="SYS_DAT.FAC" source="Robbit mon Dieu (Japan)/EVENT/23/SYS_DAT.FAC" type="data"/>
+                    <file name="M47_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/23/M47_ENE.FAC" type="data"/>
+                    <file name="M48_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/23/M48_ENE.FAC" type="data"/>
+                    <file name="EB47_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/23/EB47_ENE.FAC" type="data"/>
+                    <file name="EB48_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/23/EB48_ENE.FAC" type="data"/>
+                    <file name="EE47_ENE.FAC" source="Robbit mon Dieu (Japan)/EVENT/23/EE47_ENE.FAC" type="data"/>
+                </dir>
+            </dir>
+            <dir name="VAB" source="Robbit mon Dieu (Japan)/VAB">
+                <file name="COM_VAB.FAC" source="Robbit mon Dieu (Japan)/VAB/COM_VAB.FAC" type="data"/>
+                <file name="M21_SEQ.FAC" source="Robbit mon Dieu (Japan)/VAB/M21_SEQ.FAC" type="data"/>
+                <file name="M23_SEQ.FAC" source="Robbit mon Dieu (Japan)/VAB/M23_SEQ.FAC" type="data"/>
+                <file name="M28_SEQ.FAC" source="Robbit mon Dieu (Japan)/VAB/M28_SEQ.FAC" type="data"/>
+                <file name="M29_SEQ.FAC" source="Robbit mon Dieu (Japan)/VAB/M29_SEQ.FAC" type="data"/>
+                <file name="M30_SEQ.FAC" source="Robbit mon Dieu (Japan)/VAB/M30_SEQ.FAC" type="data"/>
+                <file name="M31_SEQ.FAC" source="Robbit mon Dieu (Japan)/VAB/M31_SEQ.FAC" type="data"/>
+                <file name="M32_SEQ.FAC" source="Robbit mon Dieu (Japan)/VAB/M32_SEQ.FAC" type="data"/>
+                <file name="TIT_VAB.FAC" source="Robbit mon Dieu (Japan)/VAB/TIT_VAB.FAC" type="data"/>
+            </dir>
+            <dir name="WM" source="Robbit mon Dieu (Japan)/WM">
+                <file name="MVPLAYER.PEX" source="Robbit mon Dieu (Japan)/WM/MVPLAYER.PEX" type="data"/>
+                <file name="MEMCARD.PEX" source="Robbit mon Dieu (Japan)/WM/MEMCARD.PEX" type="data"/>
+                <file name="WORLDMAP.PEX" source="Robbit mon Dieu (Japan)/WM/WORLDMAP.PEX" type="data"/>
+                <file name="MUSIC21.FAC" source="Robbit mon Dieu (Japan)/WM/MUSIC21.FAC" type="data"/>
+                <file name="MUSIC22.FAC" source="Robbit mon Dieu (Japan)/WM/MUSIC22.FAC" type="data"/>
+                <file name="MUSIC24.FAC" source="Robbit mon Dieu (Japan)/WM/MUSIC24.FAC" type="data"/>
+                <file name="MUSIC25.FAC" source="Robbit mon Dieu (Japan)/WM/MUSIC25.FAC" type="data"/>
+                <file name="HANAMAP.FAC" source="Robbit mon Dieu (Japan)/WM/HANAMAP.FAC" type="data"/>
+                <file name="CARDIMG.FAC" source="Robbit mon Dieu (Japan)/WM/CARDIMG.FAC" type="data"/>
+                <file name="BAGIMAGE.FAC" source="Robbit mon Dieu (Japan)/WM/BAGIMAGE.FAC" type="data"/>
+                <file name="DAGASHI.FAC" source="Robbit mon Dieu (Japan)/WM/DAGASHI.FAC" type="data"/>
+                <file name="MOVVIEW.FAC" source="Robbit mon Dieu (Japan)/WM/MOVVIEW.FAC" type="data"/>
+                <file name="MEMCARD.FAC" source="Robbit mon Dieu (Japan)/WM/MEMCARD.FAC" type="data"/>
+            </dir>
+            <dir name="XA" source="Robbit mon Dieu (Japan)/XA">
+                <file name="BGM0.XA" source="Robbit mon Dieu (Japan)/XA/BGM0.XA" type="mixed"/>
+                <file name="BGM1.XA" source="Robbit mon Dieu (Japan)/XA/BGM1.XA" type="mixed"/>
+                <file name="BGM2.XA" source="Robbit mon Dieu (Japan)/XA/BGM2.XA" type="mixed"/>
+                <file name="CHARAED0.XA" source="Robbit mon Dieu (Japan)/XA/CHARAED0.XA" type="mixed"/>
+                <file name="CHARAED1.XA" source="Robbit mon Dieu (Japan)/XA/CHARAED1.XA" type="mixed"/>
+                <file name="EV0.XA" source="Robbit mon Dieu (Japan)/XA/EV0.XA" type="mixed"/>
+                <file name="EV1.XA" source="Robbit mon Dieu (Japan)/XA/EV1.XA" type="mixed"/>
+                <file name="EV10.XA" source="Robbit mon Dieu (Japan)/XA/EV10.XA" type="mixed"/>
+                <file name="EV11.XA" source="Robbit mon Dieu (Japan)/XA/EV11.XA" type="mixed"/>
+                <file name="EV2.XA" source="Robbit mon Dieu (Japan)/XA/EV2.XA" type="mixed"/>
+                <file name="EV3.XA" source="Robbit mon Dieu (Japan)/XA/EV3.XA" type="mixed"/>
+                <file name="EV4.XA" source="Robbit mon Dieu (Japan)/XA/EV4.XA" type="mixed"/>
+                <file name="EV5.XA" source="Robbit mon Dieu (Japan)/XA/EV5.XA" type="mixed"/>
+                <file name="EV6.XA" source="Robbit mon Dieu (Japan)/XA/EV6.XA" type="mixed"/>
+                <file name="EV7.XA" source="Robbit mon Dieu (Japan)/XA/EV7.XA" type="mixed"/>
+                <file name="EV8.XA" source="Robbit mon Dieu (Japan)/XA/EV8.XA" type="mixed"/>
+                <file name="EV9.XA" source="Robbit mon Dieu (Japan)/XA/EV9.XA" type="mixed"/>
+                <file name="RQ0.XA" source="Robbit mon Dieu (Japan)/XA/RQ0.XA" type="mixed"/>
+                <file name="RQ1.XA" source="Robbit mon Dieu (Japan)/XA/RQ1.XA" type="mixed"/>
+                <file name="RQ2.XA" source="Robbit mon Dieu (Japan)/XA/RQ2.XA" type="mixed"/>
+                <file name="RQ3.XA" source="Robbit mon Dieu (Japan)/XA/RQ3.XA" type="mixed"/>
+                <file name="RQ4.XA" source="Robbit mon Dieu (Japan)/XA/RQ4.XA" type="mixed"/>
+                <file name="RQ5.XA" source="Robbit mon Dieu (Japan)/XA/RQ5.XA" type="mixed"/>
+                <file name="RQ6.XA" source="Robbit mon Dieu (Japan)/XA/RQ6.XA" type="mixed"/>
+                <file name="RQ7.XA" source="Robbit mon Dieu (Japan)/XA/RQ7.XA" type="mixed"/>
+            </dir>
+            <file name="DATA.EAR" source="Robbit mon Dieu (Japan)/DATA.EAR" type="data"/>
+            <file name="SCPS_101.03" source="mod_utility_prj/build/patched_SCPS_101.03" type="data"/>
+            <file name="STARTUP.PEX" source="Robbit mon Dieu (Japan)/STARTUP.PEX" type="data"/>
+            <file name="SYS.TXT" source="Robbit mon Dieu (Japan)/SYS.TXT" type="data"/>
+            <file name="SYSTEM.CNF" source="Robbit mon Dieu (Japan)/SYSTEM.CNF" type="data"/>
+            <file name="TITDATA.FAC" source="Robbit mon Dieu (Japan)/TITDATA.FAC" type="data"/>
+            <file name="TITLE.PEX" source="Robbit mon Dieu (Japan)/TITLE.PEX" type="data"/>
+            <file name="DUMMY.DAT" source="Robbit mon Dieu (Japan)/DUMMY.DAT" type="data"/>
+            <file name="ingame.csv" source="ingame.csv" type="data" />
+            <file name="map.csv" source="map.csv" type="data" />
+        </directory_tree>
+    </track>
+</iso_project>

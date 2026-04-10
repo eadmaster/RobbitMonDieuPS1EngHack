@@ -12,15 +12,13 @@ typedef struct
 
 static const TextPatch text_patches_main_menu[] =
 {
-    //{ (volatile unsigned char*)0x000B728C, "Begin" },  // はじめから
-    //{ (volatile unsigned char*)0x000b7280, "Continue  " },  // つづきから
     { (volatile unsigned char*)0x000b7278, "Load  " },  // ロード
     { (volatile unsigned char*)0x000b7268, "Settings    " },  // セッティング
     { (volatile unsigned char*)0x000b725C, "Credits " },  // あもいで
-    { (volatile unsigned char*)0x001c4cc6, "Start from the\xFF\x81" "beginning    " },  // ゲームを最初から℃nめます
-    { (volatile unsigned char*)0x001c4f76, "Load save game.           " },  //  データのロードを″sいます。
-    { (volatile unsigned char*)0x001c4f9a, "Change the game\xFF\x81" "settings             " },  //  ゲームに関する♀e種設定を行います。
-    { (volatile unsigned char*)0x000b7180, "Resident Memories" },
+    //{ (volatile unsigned char*)0x001c4cc6, "Start from the\xFF\x81" "beginning    " },  // ゲームを最初から℃nめます
+    //{ (volatile unsigned char*)0x001c4f76, "Load save game.           " },  //  データのロードを″sいます。
+    //{ (volatile unsigned char*)0x001c4f9a, "Change the game\xFF\x81" "settings             " },  //  ゲームに関する♀e種設定を行います。
+    { (volatile unsigned char*)0x000b7180, "Memories" },
     { (volatile unsigned char*)0x000b7190, "Scrap" },
     { (volatile unsigned char*)0x000b719c, "Work Card" },
     { (volatile unsigned char*)0x000b71c0, "Reset Defaults" },
@@ -38,7 +36,7 @@ static const TextPatch text_patches_main_menu[] =
     { (volatile unsigned char*)0x000b725c, "Memories" },
     { (volatile unsigned char*)0x000b7268, "Settings" },
     { (volatile unsigned char*)0x000b7280, "Continue  " },
-    { (volatile unsigned char*)0x000b728c, "New Game  " },
+    { (volatile unsigned char*)0x000b728c, "New Game" },
     { (volatile unsigned char*)0x000b7298, "Apply" },
 /*
  * 0x000b7180 住民おもいで
