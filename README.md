@@ -2,6 +2,9 @@
 
 English hack for the PS1 game Robbit Mon Dieu.
 
+> [!NOTE]
+> This is now discontinued after the complete English patch released by [washingtonxan on October 4, 2026](https://romhackplaza.org/translations/robbit-mon-dieu-english-translation-playstation).
+
 
 ## Current status  🏗️
 
